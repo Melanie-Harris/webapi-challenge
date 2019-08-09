@@ -11,7 +11,7 @@ In this challenge, create a web API to manage the following resources: `People` 
 This is an individual assessment, please work on it alone. It is an opportunity to demonstrate proficiency in the concepts and objectives introduced and practiced in preceding days.
 
 If the instructions are not clear, please seek support from your TL and Instructor on Slack.
-
+  
 The Minimum Viable Product must be completed in three hours.
 
 Follow these steps to set up and work on your project:
