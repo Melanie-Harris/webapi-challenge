@@ -39,14 +39,23 @@ Commit your code regularly and use descriptive messages. This helps both you (in
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your Team Lead.
 
 - [] Mention two parts of Express that you learned about this week.
+  Routing and Middleware
 
 - [ ] What is Express Middleware?
+  Middleware functions are functions that have access to the request object (req), the response object (res), and the next middleware function in the application’s request-response cycle. These functions are used to modify req and res objects for tasks like parsing request bodies, adding response headers, etc.
+
 
 - [ ] How can a client send data to an API?
+  When programmers decide to make some of their data available to the public, they “expose endpoints,” meaning they publish a portion of the language they’ve used to build their program. Other programmers can then pull data from the application by building URLs or using HTTP clients (special programs that build the URLs for you) to request data from those endpoints.
+
 
 - [ ] What can the API return to help clients know if a request was successful?
+  A status codes and json messages
+
+
 
 - [ ] What Express feature can we use to partition an application into sub-applications?
+    Routing
 
 ## Minimum Viable Product
 
